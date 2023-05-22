@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Your-Cheese/AI_Chatbot">
+  <a href="https://github.com/Your-Cheese/ai-chatbot">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     Easily set up your own AI Chatbot that can talk to you in real-time
     <br />
-    <a href="https://github.com/Your-Cheese/AI_Chatbot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Your-Cheese/ai-chatbot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Your-Cheese/AI_Chatbot">View Demo</a>
+    <a href="https://github.com/Your-Cheese/ai-chatbot">View Demo</a>
     ·
-    <a href="https://github.com/Your-Cheese/AI_Chatbot/issues">Report Bug</a>
+    <a href="https://github.com/Your-Cheese/ai-chatbot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Your-Cheese/AI_Chatbot/issues">Request Feature</a>
+    <a href="https://github.com/Your-Cheese/ai-chatbot/issues">Request Feature</a>
   </p>
 </div>
 
@@ -167,7 +167,7 @@ Coming soon
 - [ ] Potentially implement usage of the superbooga extension through the text-generation-webui API (?)
 - [ ] Japanese text-to-speech output (if there's any interest)
 
-See the [open issues](https://github.com/Your-Cheese/AI_Chatbot/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Your-Cheese/ai-chatbot/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,16 +221,16 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Your-Cheese/AI_Chatbot.svg?style=for-the-badge
-[contributors-url]: https://github.com/Your-Cheese/AI_Chatbot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Your-Cheese/AI_Chatbot.svg?style=for-the-badge
-[forks-url]: https://github.com/Your-Cheese/AI_Chatbot/network/members
-[stars-shield]: https://img.shields.io/github/stars/Your-Cheese/AI_Chatbot.svg?style=for-the-badge
-[stars-url]: https://github.com/Your-Cheese/AI_Chatbot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Your-Cheese/AI_Chatbot.svg?style=for-the-badge
-[issues-url]: https://github.com/Your-Cheese/AI_Chatbot/issues
-[license-shield]: https://img.shields.io/github/license/Your-Cheese/AI_Chatbot.svg?style=for-the-badge
-[license-url]: https://github.com/Your-Cheese/AI_Chatbot/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Your-Cheese/ai-chatbot.svg?style=for-the-badge
+[contributors-url]: https://github.com/Your-Cheese/AI-Chatbot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Your-Cheese/ai-chatbot.svg?style=for-the-badge
+[forks-url]: https://github.com/Your-Cheese/ai-chatbot/network/members
+[stars-shield]: https://img.shields.io/github/stars/Your-Cheese/ai-chatbot.svg?style=for-the-badge
+[stars-url]: https://github.com/Your-Cheese/AI-Chatbot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Your-Cheese/ai-chatbot.svg?style=for-the-badge
+[issues-url]: https://github.com/Your-Cheese/ai-chatbot/issues
+[license-shield]: https://img.shields.io/github/license/Your-Cheese/ai-chatbot.svg?style=for-the-badge
+[license-url]: https://github.com/Your-Cheese/ai-chatbot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/david-z-3a2a7639/
 [product-screenshot]: images/GUI_screenshot.png
